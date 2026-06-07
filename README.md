@@ -13,7 +13,7 @@ Shopify Developer & Full-Stack PHP Engineer based in Lahore, Pakistan.
 `Shopify` `Liquid` `Laravel` `PHP` `Vue.js` `JavaScript` `MySQL` `REST API` `GraphQL`
 
 ## Experience
-- 4+ years of professional development
+- 5+ years of professional development
 - 350+ clients delivered worldwide
 - Specialised in Shopify REST & GraphQL APIs, Section Rendering API, webhook architecture
 
